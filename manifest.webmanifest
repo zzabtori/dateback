@@ -1,0 +1,17 @@
+{
+  "name": "데이트백",
+  "short_name": "데이트백",
+  "description": "사진에 옛날 필름카메라식 주황색 날짜를 새깁니다",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#262A29",
+  "theme_color": "#262A29",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
